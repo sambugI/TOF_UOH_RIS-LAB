@@ -1,5 +1,5 @@
 # TOF_UOH_RIS-LAB
-Contiene información sobre la calibración del kit cámara ToF + RBG junto con los datos obtenidos a partir de estos.
+Este repositorio contiene información sobre las cámaras ToF y RGB del LucidVisions usados en RisLab de la UOH. Los modelos de las cámaras usadas corresponden al kit de cámara ToF + RBG, usando en particular los modelos a u
 
 Las cámaras usadas en el laboratorio son las siguientes:
 
