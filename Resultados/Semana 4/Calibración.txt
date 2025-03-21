@@ -1,0 +1,3 @@
+Error de reproyección calibación tritón: 0.85088
+Calibración objetivo alrededor de 1.1m
+Rango luminicencia falsa: 0-14% 

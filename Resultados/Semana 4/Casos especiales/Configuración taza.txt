@@ -1,0 +1,6 @@
+Threshold: off
+Spatial Filtaring: off
+Exposure: 88 us.
+Image accumulation: 32
+Conversion gain: low.
+Gain: 1.28125

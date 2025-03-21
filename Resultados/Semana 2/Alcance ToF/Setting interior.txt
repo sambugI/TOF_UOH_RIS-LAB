@@ -1,0 +1,67 @@
+Interior:
+- Altura objeto: 1,1 metro
+- Trípode: 1.2 m
+- Distancias:0.3, 1, 2 ,3,4 metros
+
+O.1 metros:
+- Exposición: 88
+- Adquisición: 30
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 0mm hasta 881mm
+
+O.2 metros:
+- Exposición: 13
+- Adquisición: 30
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 5617
+- Flying pixel: Apagado.
+- Rango: 0mm hasta 881
+
+O.3 metros:
+- Exposición: 88
+- Adquisición: 30
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 8738
+- Flying pixel: Apagado.
+- Rango: 307mm hasta 517 mm
+
+1 metro:
+- Exposición: 350
+- Adquisición: 30
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 8738
+- Flying pixel: Apagado.
+- Rango: 0mm hasta 1302
+
+2 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 4
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 1359mm hasta 3713 mm
+
+3 metro:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 4
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 3311mm hasta 5015 mm
+
+4 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 3311mm hasta 5015 mm

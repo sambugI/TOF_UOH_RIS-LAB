@@ -1,0 +1,8 @@
+Modo de distancia:8.3 m
+Exposición: 350 us.
+Gain: continuo.
+Adquisicion: 256
+Rango:0mm - 5723 mm
+Confidence threshold min: 500
+Conversion gain: low.
+Distancia a objeto: 1.1m

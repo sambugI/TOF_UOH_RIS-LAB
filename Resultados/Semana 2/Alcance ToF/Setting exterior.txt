@@ -1,0 +1,107 @@
+O.1 metros:
+- Exposición: 13
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 4000
+- Flying pixel: Apagado.
+- Rango: 0mm hasta 609 mm
+
+O.2 metros:
+- Exposición: 13
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 2497
+- Flying pixel: Apagado.
+- Rango: 0mm hasta 890 mm
+
+O.3metros:
+- Exposición: 88
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 1.25
+- Threshold: 12795
+- Flying pixel: Apagado.
+- Rango: 0mm hasta 890 mm
+
+1 metros:
+- Exposición: 350
+- Adquisición: 30
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 2185
+- Flying pixel: Apagado.
+- Rango: 500mm hasta 1500 mm
+
+2 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 4
+- Threshold: 936
+- Flying pixel: Apagado.
+- Rango: 1281 mm hasta 3029 mm
+
+3 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 2460 mm hasta 3923 mm
+
+4 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 3131 mm hasta 4513 mm
+
+5 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 3883 mm hasta 5793 mm
+
+6 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 4208 mm hasta 6383 mm
+
+7 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 6301 mm hasta 7521 mm
+
+8.1 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 6769 mm hasta 8191 mm
+
+8.3 metros:
+- Exposición: 350
+- Adquisición: 256
+- Ganancia: continúa
+- Modo de distancia: 5
+- Threshold: 0
+- Flying pixel: Apagado.
+- Rango: 6769 mm hasta 8191 mm
