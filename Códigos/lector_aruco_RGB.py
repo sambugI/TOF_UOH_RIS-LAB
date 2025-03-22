@@ -1,3 +1,9 @@
+""" El siguiente código se conecta a la cámara RGB y permite realizar una captura del Aruco Marker y obtener la posición de la cámara respecto a este marker. Para esto, se debe correr el código  en la terminal 
+y responder las preguntas que aparecen, incluyendo dónde se quiere guardar la cámara, cuál cámara se va a usar (escoger cámara RGB) y el tamaño del lado del Aruco Marker usado en milímetros.
+
+Luego, se va a mostrar en una pestaña la captura realizada y los ejes que se proyectan sobre el Aruco Marker. Para salir de esta pestaña se debe presionar cualquier tecla. Se va a pedir que escribas explícitamente "Si" en la terminal si está correctamente la imagen y si no es 
+así, se puede presionar cualquier otra tecla y poner enter. Finalmente, se va a guardar un archivo .json en la ubicación especificada con la posición de la cámara respecto al Aruco Marker en milímetros.
+"""
 import os
 import cv2 as cv
 import numpy as np
@@ -172,7 +178,7 @@ if __name__ == "__main__":
         if image is None:
             print("Error: No se pudo cargar la imagen.")
             exit()
-        size = float(input("El tamaño (largo o ancho) del aruco marker es: "))
+        size = float(input("El tamaño del lado del aruco marker en mm es: "))
         rmat, tvec = detect_aruco_pose(image, cmtx, dist, size)
 
         if rmat is not None and tvec is not None:
