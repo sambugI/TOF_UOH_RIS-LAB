@@ -1,5 +1,5 @@
-""" Este código permite sobreponer información entre dos capturas de cámaras RGB y ToF por separado. Para esto, se debe correr el código en la terminal, se debe especificar las direcciones donde se encuentran la imagen RGB 
-y la nube de puntos, para luego guardar la nube de puntos con información sobrepuesta en la misma carpeta que la imagen RGB. 
+""" Este código permite sobreponer información entre dos capturas de cámaras RGB y ToF por separado. Para esto, se debe correr el código en la terminal, se debe especificar las direcciones
+donde se encuentran la imagen RGB y la nube de puntos, para luego guardar la nube de puntos con información sobrepuesta en la misma carpeta que la imagen RGB. 
 """
 import os
 import json
