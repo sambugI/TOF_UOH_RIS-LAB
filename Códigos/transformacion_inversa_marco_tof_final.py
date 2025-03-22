@@ -5,6 +5,13 @@ Created on Fri Feb  7 19:12:51 2025
 @author: samue
 """
 
+""" Este código permite tomar los archivos .json para transformar la información del ArUco Marker respecto a la cámara para ponerla respecto a la cámara ToF en lugar de la cámara RGB y 
+luego tomar la inversa. Estas nuevas matrices de traslación y rotación permiten poner las nubes de puntos tomando como sistema de referencia al ArUco marker para tener una mejor alineación
+entre las nubes de puntos al introducir estas matrices en Apply transform de CloudCompare. 
+Una vez se corre este archivo en la terminal, se debe especificar las direcciones de los archivos .json donde se tiene la información de la cámara respecto al ArUco Marker hasta que se introduzca
+en la terminal una dirección no válido de un archivo .json. Luego, se debe ingresar la carpeta donde se quiere guardar el archivo .txt en donde se encuentran las matrices calculadas.
+"""
+
 import numpy as np
 import cv2
 import json
