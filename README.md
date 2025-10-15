@@ -41,7 +41,7 @@ Al inicio de la carpeta de resultados se tiene una imagen con los objetos usados
 
 
 - Caja de color azul.
-- Desindectante ambiental en spray.
+- Desinfectante ambiental en spray.
 - Taza de plástico de color negro.
 - Jarrón de plástico.
 - Juguete de dinosaurio.
